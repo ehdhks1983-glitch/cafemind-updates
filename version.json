@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
-  "download_url": "https://github.com/ehdhks1983-glitch/cafemind-updates/releases/download/v1.1.1/CafeMind_v1.1.1_Setup.exe",
-  "changelog": "카페 추가/관리를 사이드바로 이동(첫 설정 동선 개선) · 글 발행 탭 정리 · 다계정 지원(계정별 분리·동시 운영) · 새 앱 아이콘 · 댓글 품질 개선 · 고퀄 썸네일·Imagen 4.0 이미지·발행 시 자동 생성 · 링크 사이트 크롤링 · 발행 중지 · 자동운영 게시판 지정 · 강제 휴식 설정 · 7일 체험판 자동 시작"
+  "version": "1.1.2",
+  "download_url": "https://github.com/ehdhks1983-glitch/cafemind-updates/releases/download/v1.1.2/CafeMind_v1.1.2_Setup.exe",
+  "changelog": "자동 업데이트 확인 오류 수정(aiohttp 없이도 작동) · 카페 추가/관리 사이드바 이동 · 글 발행 탭 정리 · 다계정 지원 · 새 아이콘 · 댓글 품질 개선 · 썸네일·Imagen 이미지·자동 생성 · 링크 크롤링 · 발행 중지 · 자동운영 게시판 지정 · 강제 휴식 설정 · 7일 체험판"
 }
