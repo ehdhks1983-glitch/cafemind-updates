@@ -1,5 +1,5 @@
 {
-  "version": "1.1.3",
-  "download_url": "https://github.com/ehdhks1983-glitch/cafemind-updates/releases/download/v1.1.3/CafeMind_v1.1.3_Setup.exe",
-  "changelog": "스케줄러/자동운영 게시판 드롭다운 자동 갱신(카페 추가 후 바로 반영) · '카페 멤버 아님' 발행 오류 메시지 개선(원인 즉시 안내) · 자동 업데이트 확인 정상화 · 카페 추가/관리 사이드바 이동 · 다계정 지원 · 새 아이콘 · 댓글 품질 개선 · 이미지 자동 생성 · 링크 크롤링 · 7일 체험판"
+  "version": "1.1.4",
+  "download_url": "https://github.com/ehdhks1983-glitch/cafemind-updates/releases/download/v1.1.4/CafeMind_v1.1.4_Setup.exe",
+  "changelog": "원클릭 자동 업데이트: '지금 업데이트' 누르면 앱이 직접 다운로드(진행률 표시) 후 설치 프로그램 자동 실행 · 스케줄러 게시판 드롭다운 자동 갱신 · '카페 멤버 아님' 오류 안내 개선 · 다계정 지원 · 카페 관리 사이드바 · 이미지 자동 생성 · 링크 크롤링 · 7일 체험판"
 }
