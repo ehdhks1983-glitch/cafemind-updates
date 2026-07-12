@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
-  "download_url": "https://github.com/ehdhks1983-glitch/cafemind-updates/releases/download/v1.0.5/CafeMind_v1.0.5_Setup.exe",
-  "changelog": "고퀄 썸네일 카드(Pretendard) · Imagen 4.0 AI 이미지 · 발행 시 이미지 자동 생성 · 링크 사이트 내용 크롤링해서 글 작성 · 발행 중지 버튼 · 자동운영 게시판 지정 · 강제 휴식 시간 설정 · 댓글/좋아요 실시간 카운터 · 7일 체험판 자동 시작"
+  "version": "1.1.0",
+  "download_url": "https://github.com/ehdhks1983-glitch/cafemind-updates/releases/download/v1.1.0/CafeMind_v1.1.0_Setup.exe",
+  "changelog": "다계정 지원(폴더 복사 없이 계정별 분리) · 곰 아이콘 · 엉뚱한 댓글 수정(글 주제 반영) · 고퀄 썸네일 카드 · Imagen 4.0 AI 이미지 · 발행 시 이미지 자동 생성 · 링크 사이트 크롤링 글 작성 · 발행 중지 버튼 · 자동운영 게시판 지정 · 강제 휴식 시간 설정 · 댓글/좋아요 실시간 카운터 · 7일 체험판 자동 시작"
 }
