@@ -1,5 +1,5 @@
 {
-  "version": "1.1.4",
-  "download_url": "https://github.com/ehdhks1983-glitch/cafemind-updates/releases/download/v1.1.4/CafeMind_v1.1.4_Setup.exe",
-  "changelog": "원클릭 자동 업데이트: '지금 업데이트' 누르면 앱이 직접 다운로드(진행률 표시) 후 설치 프로그램 자동 실행 · 스케줄러 게시판 드롭다운 자동 갱신 · '카페 멤버 아님' 오류 안내 개선 · 다계정 지원 · 카페 관리 사이드바 · 이미지 자동 생성 · 링크 크롤링 · 7일 체험판"
+  "version": "1.1.5",
+  "download_url": "https://github.com/ehdhks1983-glitch/cafemind-updates/releases/download/v1.1.5/CafeMind_v1.1.5_Setup.exe",
+  "changelog": "스케줄러 키워드 소진 모드(넣은 개수만큼만 발행 후 종료) · 키워드 여러 개 붙여넣기 자동 분리 · 댓글이 글 종류에 맞게(본문 읽기 재시도) · 스케줄러 첫 발행 즉시 · 주제/지시 프롬프트 · 업데이트해도 데이터 보존 · 체험판 재설치 리셋 방지 · 원클릭 자동 업데이트"
 }
