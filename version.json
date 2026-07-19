@@ -1,5 +1,5 @@
 {
-  "version": "1.1.5",
-  "download_url": "https://github.com/ehdhks1983-glitch/cafemind-updates/releases/download/v1.1.5/CafeMind_v1.1.5_Setup.exe",
-  "changelog": "스케줄러 키워드 소진 모드(넣은 개수만큼만 발행 후 종료) · 키워드 여러 개 붙여넣기 자동 분리 · 댓글이 글 종류에 맞게(본문 읽기 재시도) · 스케줄러 첫 발행 즉시 · 주제/지시 프롬프트 · 업데이트해도 데이터 보존 · 체험판 재설치 리셋 방지 · 원클릭 자동 업데이트"
+  "version": "1.1.6",
+  "download_url": "https://github.com/ehdhks1983-glitch/cafemind-updates/releases/download/v1.1.6/CafeMind_v1.1.6_Setup.exe",
+  "changelog": "스케줄러 이미지 폴더 발행(숫자 이름=키워드별 대표사진) · 스케줄러 링크+N개당 1개 빈도 · 첨부 이미지 목록 · 화면 스크롤(노트북) · 구카페 한글 깨짐 해결 · 세로사진 회전 보존 · 내가 쓴 글 댓글 방지 · 라이선스 PC 공유(다계정 자동 인증)"
 }
