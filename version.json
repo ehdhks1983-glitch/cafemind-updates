@@ -1,5 +1,5 @@
 {
-  "version": "1.1.6",
-  "download_url": "https://github.com/ehdhks1983-glitch/cafemind-updates/releases/download/v1.1.6/CafeMind_v1.1.6_Setup.exe",
-  "changelog": "스케줄러 이미지 폴더 발행(숫자 이름=키워드별 대표사진) · 스케줄러 링크+N개당 1개 빈도 · 첨부 이미지 목록 · 화면 스크롤(노트북) · 구카페 한글 깨짐 해결 · 세로사진 회전 보존 · 내가 쓴 글 댓글 방지 · 라이선스 PC 공유(다계정 자동 인증)"
+  "version": "1.1.7",
+  "download_url": "https://github.com/ehdhks1983-glitch/cafemind-updates/releases/download/v1.1.7/CafeMind_v1.1.7_Setup.exe",
+  "changelog": "스케줄러 중요 수정(키워드 소진 후 예약 멈춤·1회 예약 미실행 해결) · 예약 목록에 다음 실행 시각/상태 표시 · 예약 개별 삭제 · 시작 전 자동 점검 · 🔍 상위노출 모드(검색 상위노출 규칙 글쓰기+자동 점검) · 카페를 진짜 이름으로 표시 · 카페/게시판 개별 삭제 및 이름 변경"
 }
