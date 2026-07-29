@@ -1,5 +1,5 @@
 {
-  "version": "1.1.8",
-  "download_url": "https://github.com/ehdhks1983-glitch/cafemind-updates/releases/download/v1.1.8/CafeMind_v1.1.8_Setup.exe",
-  "changelog": "🎓 앱 안 사용법 가이드 추가(사이드바 [❓ 사용법 보기] · 준비 상태 실시간 진단 + 바로가기) · 💬 댓글 자동화 정확도 개선(이미 댓글 단 글 중복 방지, 내가 쓴 글에 남인 척 댓글 방지 — 계정 고유값으로 정확히 판별)"
+  "version": "1.1.9",
+  "download_url": "https://github.com/ehdhks1983-glitch/cafemind-updates/releases/download/v1.1.9/CafeMind_v1.1.9_Setup.exe",
+  "changelog": "🛡️ 설정 보호 강화(설정 파일이 손상돼도 API 키·카페 정보가 사라지지 않고 자동 복구) · 🔑 체험판 종료 안내창 추가(그 자리에서 바로 정품 인증, HWID 복사 버튼) · 사이드바에 체험판 남은 일수 상시 표시"
 }
