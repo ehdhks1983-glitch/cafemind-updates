@@ -1,5 +1,5 @@
 {
-  "version": "1.1.9",
-  "download_url": "https://github.com/ehdhks1983-glitch/cafemind-updates/releases/download/v1.1.9/CafeMind_v1.1.9_Setup.exe",
-  "changelog": "🛡️ 설정 보호 강화(설정 파일이 손상돼도 API 키·카페 정보가 사라지지 않고 자동 복구) · 🔑 체험판 종료 안내창 추가(그 자리에서 바로 정품 인증, HWID 복사 버튼) · 사이드바에 체험판 남은 일수 상시 표시"
+    "download_url":  "https://github.com/ehdhks1983-glitch/cafemind-updates/releases/download/v1.1.10/CafeMind_v1.1.10_Setup.exe",
+    "changelog":  "🔴 AI 모델 문제 해결 — 구글이 기존 모델을 신규 API 키에서 차단해 글·댓글 생성이 실패하던 문제 수정(최신 3.x 모델로 자동 전환, 설정에서 모델 직접 선택 가능, 막히면 자동 대체) · 🖼 2026-08-17 종료되는 이미지 모델 교체 · 💬 오류 원인별 안내(크레딧/한도/모델종료/권한) · 🔧 진단 로그는 설정에서 켤 때만 표시",
+    "version":  "1.1.10"
 }
